@@ -1,10 +1,7 @@
-Here is a professional `README.md` file for your **Mark Calculator** project. I have structured it to highlight the "Input-Process-Output" flow you described in your report.
-
------
-
 # Mark Calculator (Coursework Grading System)
 
 **Author:** MUHAMMAD ARIF AFIQ BIN KAMARULZAIDI (22303865)
+
 **Course:** CPT111 - Programming Principles
 
 -----
